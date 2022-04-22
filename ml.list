@@ -12,6 +12,8 @@
 ;设置规则标志位
 ruleset=🎯 国内节点,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 ruleset=🎯 国内节点,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list
+;ruleset=🎯 全球直连,[]GEOIP,LAN
+ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🐟 国外节点,[]FINAL
 ;设置规则标志位
 
